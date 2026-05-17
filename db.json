@@ -1,0 +1,131 @@
+{
+  "dataPengguna": [
+    {
+      "id": "1",
+      "nama": "Rina Wulandari",
+      "email": "rina@ut.ac.id",
+      "password": "$2a$10$WbK7P9K/3X/88oB1vW3I7urV.ZcI1X8A6wAbeB9vFm9W3bshx0iK2",
+      "role": "UPBJJ-UT",
+      "lokasi": "UPBJJ Jakarta"
+    },
+    {
+      "id": "2",
+      "nama": "Agus Pranoto",
+      "email": "agus@ut.ac.id",
+      "password": "$2a$10$wSgH8PZ5DFlbK6n6r6tHFe1M8VwFvBvR8qB9zN3Y9vFm9W3bshx0iK",
+      "role": "UPBJJ-UT",
+      "lokasi": "UPBJJ Makassar"
+    },
+    {
+      "id": "3",
+      "nama": "Siti Marlina",
+      "email": "siti@ut.ac.id",
+      "password": "$2a$10$7R9vFm9W3bshx0iK2wSgH8PZ5DFlbK6n6r6tHFe1M8VwFvBvR8qB9z",
+      "role": "Puslaba",
+      "lokasi": "Pusat"
+    },
+    {
+      "id": "4",
+      "nama": "Doni Setiawan",
+      "email": "doni@ut.ac.id",
+      "password": "$2a$10$XbK7P9K/3X/88oB1vW3I7urV.ZcI1X8A6wAbeB9vFm9W3bshx0iK2",
+      "role": "Fakultas",
+      "lokasi": "FISIP"
+    },
+    {
+      "id": "5",
+      "nama": "Admin SITTA",
+      "email": "admin@ut.ac.id",
+      "password": "$2a$10$9zN3Y9vFm9W3bshx0iK2wSgH8PZ5DFlbK6n6r6tHFe1M8VwFvBvR8q",
+      "role": "Administrator",
+      "lokasi": "Pusat"
+    }
+  ],
+  "dataProgress": [
+    { "id": "1", "iduser": 1, "kodeBarang": "MSIM440201", "progress": 0 },
+    { "id": "2", "iduser": 2, "kodeBarang": "MSIM430201", "progress": 0 },
+    { "id": "3", "iduser": 3, "kodeBarang": "MKWI420202", "progress": 0 },
+    { "id": "4", "iduser": 4, "kodeBarang": "EKMA4216", "progress": 0 },
+    { "id": "5", "iduser": 5, "kodeBarang": "MSIM440501", "progress": 0 }
+  ],
+  "dataBahanAjar": [
+    { "id": "1", "kodeLokasi": "0TMP01", "kodeBarang": "ASIP4301", "namaBarang": "Pengantar Ilmu Komunikasi", "jenisBarang": "BMP", "edisi": "2", "stok": 548, "harga": 85500, "cover": "https://univterbuka.kotobee.com/books/f1e9d2911d/EPUB/EPUB/imgs/cover_thumb.png" },
+    { "id": "2", "kodeLokasi": "0JKT01", "kodeBarang": "EKMA4216", "namaBarang": "Manajemen Keuangan", "jenisBarang": "BMP", "edisi": "3", "stok": 392, "harga": 125000, "cover": "https://univterbuka.kotobee.com/books/fe4ebb2ecd/EPUB/EPUB/imgs/cvr_thumb.png" },
+    { "id": "3", "kodeLokasi": "0SBY02", "kodeBarang": "EKMA4310", "namaBarang": "Kepemimpinan", "jenisBarang": "BMP", "edisi": "1", "stok": 278, "harga": 92000, "cover": "https://univterbuka.kotobee.com/books/f7505ea17a/EPUB/EPUB/imgs/ekma415803_coverluar_thumb.jpg" },
+    { "id": "4", "kodeLokasi": "0MLG01", "kodeBarang": "BIOL4211", "namaBarang": "Mikrobiologi Dasar", "jenisBarang": "BMP", "edisi": "2", "stok": 165, "harga": 148500, "cover": "https://univterbuka.kotobee.com/books/f931039990/EPUB/EPUB/imgs/untitled11_thumb.jpg" },
+    { "id": "5", "kodeLokasi": "0UPBJJBDG", "kodeBarang": "PAUD4401", "namaBarang": "Perkembangan Anak Usia Dini", "jenisBarang": "BMP", "edisi": "4", "stok": 204, "harga": 76000, "cover": "https://univterbuka.kotobee.com/books/f4408cec92/EPUB/EPUB/imgs/gambar4_thumb.png" },
+    { "id": "6", "kodeLokasi": "MSIMIN428", "kodeBarang": "MSIM420801", "namaBarang": "Interaksi Manusia dan Komputer", "jenisBarang": "BMP", "edisi": "4", "stok": 215, "harga": 110500, "cover": "https://univterbuka.kotobee.com/books/f1e9d2911d/EPUB/EPUB/imgs/cover_thumb.png" },
+    { "id": "7", "kodeLokasi": "MKWIBE891", "kodeBarang": "MKWI420202", "namaBarang": "Belajar Era Digital", "jenisBarang": "BMP", "edisi": "6", "stok": 432, "harga": 65000, "cover": "https://univterbuka.kotobee.com/books/fcd3ea5d4b/EPUB/EPUB/imgs/untitled07_thumb.jpg" },
+    { "id": "8", "kodeLokasi": "MSIMKE302", "kodeBarang": "MSIM440501", "namaBarang": "Keamanan Sistem Informasi", "jenisBarang": "BMP", "edisi": "9", "stok": 128, "harga": 175000, "cover": "https://univterbuka.kotobee.com/books/f931039990/EPUB/EPUB/imgs/untitled11_thumb.jpg" },
+    { "id": "9", "kodeLokasi": "MSIMTA554", "kodeBarang": "MSIM440201", "namaBarang": "Tata Kelola Teknologi Informasi", "jenisBarang": "BMP", "edisi": "3", "stok": 310, "harga": 132500, "cover": "https://univterbuka.kotobee.com/books/f4408cec92/EPUB/EPUB/imgs/gambar4_thumb.png" },
+    { "id": "10", "kodeLokasi": "MSIMAN119", "kodeBarang": "MSIM430201", "namaBarang": "Analisis dan Perancangan Sistem", "jenisBarang": "BMP", "edisi": "7", "stok": 87, "harga": 198000, "cover": "https://univterbuka.kotobee.com/books/ff1b155dd3/EPUB/EPUB/imgs/18_thumb.png" },
+    { "id": "11", "kodeLokasi": "MSIMSI772", "kodeBarang": "MSIM430101", "namaBarang": "Sistem Informasi Manajemen", "jenisBarang": "BMP", "edisi": "1", "stok": 456, "harga": 115000, "cover": "https://univterbuka.kotobee.com/books/f0d5c5572b/EPUB/EPUB/imgs/cover_thumb.png" },
+    { "id": "12", "kodeLokasi": "MSIMPE341", "kodeBarang": "MSIM430301", "namaBarang": "Pemprograman Web", "jenisBarang": "BMP", "edisi": "5", "stok": 192, "harga": 142000, "cover": "https://univterbuka.kotobee.com/books/ff749a18d2/EPUB/EPUB/imgs/cover01_thumb.png" },
+    { "id": "13", "kodeLokasi": "MSIMBA602", "kodeBarang": "MSIM420601", "namaBarang": "Basis Data", "jenisBarang": "BMP", "edisi": "8", "stok": 275, "harga": 138500, "cover": "https://univterbuka.kotobee.com/books/fe4ebb2ecd/EPUB/EPUB/imgs/cvr_thumb.png" },
+    { "id": "14", "kodeLokasi": "EKMAPE518", "kodeBarang": "EKMA415803", "namaBarang": "Perilaku Organisasi", "jenisBarang": "BMP", "edisi": "2", "stok": 398, "harga": 89000, "cover": "https://univterbuka.kotobee.com/books/f7505ea17a/EPUB/EPUB/imgs/ekma415803_coverluar_thumb.jpg" },
+    { "id": "15", "kodeLokasi": "STSIPR902", "kodeBarang": "STSI420601", "namaBarang": "Proses Bisnis", "jenisBarang": "BMP", "edisi": "4", "stok": 145, "harga": 120500, "cover": "https://univterbuka.kotobee.com/books/f287bcd665/EPUB/EPUB/imgs/capture_thumb.PNG" },
+    { "id": "16", "kodeLokasi": "MKWNBA108", "kodeBarang": "MKWN410801", "namaBarang": "Bahasa Indonesia", "jenisBarang": "BMP", "edisi": "6", "stok": 499, "harga": 45000, "cover": "https://univterbuka.kotobee.com/books/fd243fa88e/EPUB/EPUB/imgs/capture_thumb.PNG" },
+    { "id": "17", "kodeLokasi": "MKWNPA411", "kodeBarang": "MKWN411001", "namaBarang": "Pancasila", "jenisBarang": "BMP", "edisi": "3", "stok": 321, "harga": 48500, "cover": "https://univterbuka.kotobee.com/books/fee945ed8e/EPUB/EPUB/imgs/capture_thumb.PNG" },
+    { "id": "18", "kodeLokasi": "SATSME412", "kodeBarang": "SATS412103", "namaBarang": "Metode Stastika", "jenisBarang": "BMP", "edisi": "9", "stok": 287, "harga": 165000, "cover": "https://univterbuka.kotobee.com/books/fd88c5c1d5/EPUB/EPUB/imgs/capture_thumb.PNG" },
+    { "id": "19", "kodeLokasi": "SATSKO411", "kodeBarang": "SATS411102", "navigate": "BMP", "edisi": "2", "stok": 110, "harga": 112000, "cover": "https://univterbuka.kotobee.com/books/f0fcd35053/EPUB/EPUB/imgs/capture_thumb.PNG" },
+    { "id": "20", "kodeLokasi": "MSIMLO410", "kodeBarang": "MSIM410302", "namaBarang": "Logika Informatika", "jenisBarang": "BMP", "edisi": "1", "stok": 415, "harga": 95500, "cover": "https://univterbuka.kotobee.com/books/fe931b52df/EPUB/EPUB/imgs/capture_thumb.PNG" }
+  ],
+  "dataTracking": [
+    {
+      "id": "2023001234",
+      "nomorDO": "2023001234",
+      "idUser": 1,
+      "nama": "Rina Wulandari",
+      "status": "Dalam Perjalanan",
+      "ekspedisi": "JNE",
+      "tanggalKirim": "2025-08-25",
+      "paket": "0JKT01",
+      "total": "Rp 180.000",
+      "perjalanan": [
+        { "waktu": "2025-08-25 16:30:10", "keterangan": "Diteruskan ke Kantor Kota Bandung" },
+        { "waktu": "2025-08-26 12:15:33", "keterangan": "Tiba di Hub: Kota BANDUNG" },
+        { "waktu": "2025-08-26 15:06:12", "keterangan": "Proses antar ke Cimahi" },
+        { "waktu": "2025-08-25 10:12:20", "keterangan": "Diteruskan ke Kantor Jakarta Selatan" }
+      ]
+    },
+    {
+      "id": "2023005678",
+      "nomorDO": "2023005678",
+      "idUser": 2,
+      "nama": "Agus Pranoto",
+      "status": "Dikirim",
+      "ekspedisi": "Pos Indonesia",
+      "tanggalKirim": "2025-08-25",
+      "paket": "0UPBJJBDG",
+      "total": "Rp 220.000",
+      "perjalanan": [
+        { "waktu": "2025-08-25 10:12:20", "keterangan": "Penerimaan di Loket: TANGERANG SELATAN. Pengirim: Universitas Terbuka" },
+        { "waktu": "2025-08-25 14:07:56", "keterangan": "Tiba di Hub: TANGERANG SELATAN" },
+        { "waktu": "2025-08-25 16:30:10", "keterangan": "Diteruskan ke Kantor Kota Bandung" },
+        { "waktu": "2025-08-26 12:15:33", "keterangan": "Tiba di Hub: Kota BANDUNG" },
+        { "waktu": "2025-08-26 15:06:12", "keterangan": "Proses antar ke Cimahi" },
+        { "waktu": "2025-08-26 20:00:00", "keterangan": "Selesai Antar. Penerima: Agus Pranoto" }
+      ]
+    }
+  ],
+  "dataTransaksi": [
+    {
+      "id": "TX-202605001",
+      "tanggalTransaksi": "2026-05-15 09:30:22",
+      "idUser": "1",
+      "idBahanAjar": "2",
+      "jumlahBeli": 2,
+      "hargaSaatBeli": 125000,
+      "totalBayar": 250000
+    },
+    {
+      "id": "TX-202605002",
+      "tanggalTransaksi": "2026-05-16 14:15:00",
+      "idUser": "2",
+      "idBahanAjar": "10",
+      "jumlahBeli": 1,
+      "hargaSaatBeli": 198000,
+      "totalBayar": 198000
+    }
+  ]
+}
