@@ -1,10 +1,10 @@
 {
   "dataPengguna": [
-    {"id": "1", "nama": "Rina Wulandari", "email": "rina@ut.ac.id", "password": "$2a$10$WbK7P9K/3X/88oB1vW3I7urV.ZcI1X8A6wAbeB9vFm9W3bshx0iK2", "role": "UPBJJ-UT", "lokasi": "UPBJJ Jakarta"},
-    {"id": "2", "nama": "Agus Pranoto", "email": "agus@ut.ac.id", "password": "$2a$10$wSgH8PZ5DFlbK6n6r6tHFe1M8VwFvBvR8qB9zN3Y9vFm9W3bshx0iK", "role": "UPBJJ-UT", "lokasi": "UPBJJ Makassar"},
-    {"id": "3", "nama": "Siti Marlina", "email": "siti@ut.ac.id", "password": "$2a$10$7R9vFm9W3bshx0iK2wSgH8PZ5DFlbK6n6r6tHFe1M8VwFvBvR8qB9z", "role": "Puslaba", "lokasi": "Pusat"},
-    {"id": "4", "nama": "Doni Setiawan", "email": "doni@ut.ac.id", "password": "$2a$10$XbK7P9K/3X/88oB1vW3I7urV.ZcI1X8A6wAbeB9vFm9W3bshx0iK2", "role": "Fakultas", "lokasi": "FISIP"},
-    {"id": "5", "nama": "Admin SITTA", "email": "admin@ut.ac.id", "password": "$2a$10$9zN3Y9vFm9W3bshx0iK2wSgH8PZ5DFlbK6n6r6tHFe1M8VwFvBvR8q", "role": "Administrator", "lokasi": "Pusat"}
+    {"id": "1", "nama": "Rina Wulandari", "email": "rina@ut.ac.id", "password": "$2a$10$f66g5f8p7bO9S4W8bshx0uH5M6D2Z4wB5Fshx0iK2maOuA0O15YqO", "role": "UPBJJ-UT", "lokasi": "UPBJJ Jakarta"},
+    {"id": "2", "nama": "Agus Pranoto", "email": "agus@ut.ac.id", "password": "$2a$10$jXw29w97/pX6zD9L/xVlqexB/Y3r0Yd.ZqK5XvW8M2MhO5vXpIK6m", "role": "UPBJJ-UT", "lokasi": "UPBJJ Makassar"},
+    {"id": "3", "nama": "Siti Marlina", "email": "siti@ut.ac.id", "password": "$2a$10$G0m9R5Wv2YhX8B6shx0iKuO4M3D1Z4wB5Fshx0iK2maOuA0O15YqO", "role": "Puslaba", "lokasi": "Pusat"},
+    {"id": "4", "nama": "Doni Setiawan", "email": "doni@ut.ac.id", "password": "$2a$10$X8B6shx0iK2maOuA0O15Yqf66g5f8p7bO9S4W8bshx0uH5M6D2Z4w", "role": "Fakultas", "lokasi": "FISIP"},
+    {"id": "5", "nama": "Admin SITTA", "email": "admin@ut.ac.id", "password": "$2a$10$maOuA0O15YqO4M3D1Z4wB5G0m9R5Wv2YhX8B6shx0iKuFshx0iK2m", "role": "Administrator", "lokasi": "Pusat"}
   ],
   "dataProgress": [
     {"id": "1", "iduser": 1, "kodeBarang": "MSIM440201", "progress": 0},
